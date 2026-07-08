@@ -12,5 +12,4 @@ Language - FreeBasic
 Graphics Context - OpenGL
 Platform - Windows
 
-	
-![Alt text](screen01.png?raw=true)
+<img width="646" height="405" alt="FSM Megaman" src="https://github.com/user-attachments/assets/c6bf96b5-d978-4c62-b36c-dce8604c171b" />
